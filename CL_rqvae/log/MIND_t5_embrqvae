@@ -1,0 +1,17 @@
+2023-09-26 17:56:28,591 - root - INFO - have_processed_dataFalse, have_processed_featFalse, have_processed_codeFalse, tree_has_generatedFalse
+2023-09-26 17:56:28,591 - root - INFO - init_wayembrqvae, tree_num1, num_layers1, k64, n_head4, d_model96
+2023-09-26 17:56:28,591 - root - INFO - nlp_model_namet5, rqvae_model_namerq, devicecuda:3, rerank_topk[5, 10, 20, 40], topk40, distillFalse
+2023-09-26 17:56:28,591 - root - INFO - parall10, seq_len50, min_seq_len3, test_user_num10000
+2023-09-26 17:56:28,591 - root - INFO - max_iters100, feature_ratio1.0, rerankerTrm, total_batch_num50000, test_batch_size100
+2023-09-26 17:56:51,756 - root - INFO - have_processed_dataTrue, have_processed_featFalse, have_processed_codeFalse, tree_has_generatedFalse
+2023-09-26 17:56:51,756 - root - INFO - init_wayembrqvae, tree_num1, num_layers1, k64, n_head4, d_model96
+2023-09-26 17:56:51,756 - root - INFO - nlp_model_namet5, rqvae_model_namerq, devicecuda:3, rerank_topk[5, 10, 20, 40], topk40, distillFalse
+2023-09-26 17:56:51,756 - root - INFO - parall10, seq_len50, min_seq_len3, test_user_num10000
+2023-09-26 17:56:51,756 - root - INFO - max_iters100, feature_ratio1.0, rerankerTrm, total_batch_num50000, test_batch_size100
+2023-09-26 17:57:13,253 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: pretrain/sentence-t5-base
+2023-09-26 17:57:14,446 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
+2023-09-26 18:06:09,285 - root - INFO - [0.04227883211652204, 0.05511491342492738, 0.06845365730863566, 0.08186650787915573]
+2023-09-26 18:06:09,285 - root - INFO - [0.06692708333333333, 0.10687934027777778, 0.1598263888888889, 0.22560763888888888]
+2023-09-26 18:06:12,961 - root - INFO - [0.02761859507142915, 0.03752430023248252, 0.04259730100403671, 0.04891225129757955]
+2023-09-26 18:06:12,962 - root - INFO - [0.04, 0.07, 0.09, 0.12]
+2023-09-26 18:06:12,962 - root - INFO - step=1000, mean_loss=2.480

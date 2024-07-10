@@ -1,0 +1,15 @@
+einops==0.6.1
+faiss-gpu
+huggingface-hub==0.16.4
+nltk
+numpy
+pandas==2.0.3
+scikit-learn
+scipy
+sentence-transformers==2.2.2
+sentencepiece==0.1.99
+tokenizers==0.13.3
+torch
+tqdm
+transformers
+vector-quantize-pytorch==1.7.0
